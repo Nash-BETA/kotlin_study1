@@ -1,2 +1,6 @@
+JavaClass.java
+ JavaClass
+JavaInterface.java
+ JavaInterface
 HelloByJava.java
  HelloByJava
